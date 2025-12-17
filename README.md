@@ -207,7 +207,7 @@ npm run lint         # Executa o linter
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
-## 👨‍💻 Desenvolvedor
+## 👨‍💻 Desenvolvedor  Angelo Neri
 
 Desenvolvido com ❤️ para a comunidade Angels of Death
 

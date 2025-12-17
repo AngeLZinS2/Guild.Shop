@@ -1,4 +1,4 @@
-# Angels of Death Shop 💀
+# Angels of Death Shop GTA RP 💀
 
 Um sistema completo de gerenciamento de inventário e distribuição desenvolvido em React com TypeScript, projetado para organizações que precisam controlar o fluxo de produtos entre membros internos e externos.
 
